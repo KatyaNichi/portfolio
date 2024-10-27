@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="256" fill="#FFF0F5"/>
+  
+  <!-- Base Hair Back -->
+  <path d="M150 280
+           Q180 340 256 340
+           Q332 340 362 280
+           Q372 220 362 200
+           Q332 150 256 150
+           Q180 150 150 200
+           Q140 220 150 280Z" 
+        fill="#1a1a1a"/>
+  
+  <!-- Face - with narrower chin -->
+  <path d="M180 200
+           Q256 180 332 200
+           Q352 240 352 280
+           Q352 310 332 330
+           Q290 350 256 355
+           Q222 350 180 330
+           Q160 310 160 280
+           Q160 240 180 200" 
+        fill="#FFDDCC"/>
+        
+  <!-- Long Curls Right -->
+  <path d="M320 200
+           Q340 220 330 240
+           Q320 260 340 280
+           Q360 300 350 320"
+        fill="none" stroke="#1a1a1a" stroke-width="30" stroke-linecap="round"/>
+        
+  <!-- Long Curls Left -->
+  <path d="M192 200
+           Q172 220 182 240
+           Q192 260 172 280
+           Q152 300 162 320"
+        fill="none" stroke="#1a1a1a" stroke-width="30" stroke-linecap="round"/>
+  
+  <!-- Side Curl Detail Right -->
+  <path d="M350 220
+           Q370 240 360 260
+           Q350 280 370 300"
+        fill="none" stroke="#1a1a1a" stroke-width="25" stroke-linecap="round"/>
+        
+  <!-- Side Curl Detail Left -->
+  <path d="M162 220
+           Q142 240 152 260
+           Q162 280 142 300"
+        fill="none" stroke="#1a1a1a" stroke-width="25" stroke-linecap="round"/>
+  
+  <!-- Eyebrows -->
+  <path d="M216 230 Q226 225 236 230" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M276 230 Q286 225 296 230" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Eyes with proper eyelashes -->
+  <ellipse cx="226" cy="250" rx="10" ry="12" fill="#1a1a1a"/>
+  <ellipse cx="286" cy="250" rx="10" ry="12" fill="#1a1a1a"/>
+  
+  <!-- Left Eye Lashes -->
+  <path d="M210 242 L200 238" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M215 240 L205 234" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M220 238 L213 232" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Right Eye Lashes -->
+  <path d="M270 242 L260 238" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M275 240 L265 234" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M280 238 L273 232" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Full Lips -->
+  <path d="M226 285 
+           Q256 315 286 285
+           Q256 300 226 285" 
+        fill="#FF4D4D"/>
+  <path d="M226 285 
+           Q256 310 286 285"
+        fill="none" stroke="#FF3333" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Additional Curl Details -->
+  <path d="M300 180 Q320 190 310 210" fill="none" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/>
+  <path d="M212 180 Q192 190 202 210" fill="none" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/>
+  
+  <!-- Top Curls -->
+  <path d="M220 160 Q240 150 260 160" fill="none" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/>
+  <path d="M260 160 Q280 150 300 160" fill="none" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round"/>
+</svg>
