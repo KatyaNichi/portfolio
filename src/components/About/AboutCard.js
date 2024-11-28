@@ -13,8 +13,7 @@ function AboutCard() {
            <br />
            I am currently working as a Mobile App Development Intern.
            <br />
-           I study <span className="purple">iPhone and Android Development Program</span> at
-           Malmö Yrkeshögskola.
+           I have finished the <span className="purple">iPhone and Android Development Program</span> at Malmö Yrkeshögskola.
            <br />
            <br />
            Apart from coding, some other activities that I love to do!
